@@ -1,10 +1,7 @@
-# Pacmen
+# PacMan Coding Assignment  
 
-## Pacmen
+Description: Assignment was to build a feature of this game, which adds and moves around randomly PacMan bouncing off walls.
 
-Includes the html and js for the pacmen factory
+Installation: runs in browser.
 
-####  
-
-Run in browser
-
+Usage: click to run.
